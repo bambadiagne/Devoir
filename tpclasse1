@@ -1,0 +1,40 @@
+<<<<<<< HEAD
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ExoClasse1</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style2.css" />
+  <head/>
+  <body>
+    <?php $tab=array(
+          'Nom'='Diagne',
+          'Prenom'="Ahmadou Bamba",
+          'Tel'='779449628',
+          'Adresse'='Hlm Hann Maristes',
+          'Identifiant'="201707ZYE";
+    
+    
+    ?>
+  </body>
+=======
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ExoClasse1</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style2.css" />
+  <head/>
+  <body>
+    <?php $tab=array(
+          'Nom'='Diagne',
+          'Prenom'="Ahmadou Bamba",
+          'Tel'='779449628',
+          'Adresse'='Hlm Hann Maristes',
+          'Identifiant'="201707ZYE";
+    
+    
+    ?>
+  </body>
+>>>>>>> 1036b4a65c9e057284806972fd0de32d25c20109
+    </html>
